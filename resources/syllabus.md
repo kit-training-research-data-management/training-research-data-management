@@ -27,7 +27,6 @@ hide:
   - toc
 ---
 
-![Header with Skills4EOSC funding information](./attachments/header.png)
 
 # Title of training 
 

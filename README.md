@@ -1,4 +1,3 @@
-![](./resources/attachments/header.png)
 
 # FAIR-by-Design Methodology - Templates Repository
 
