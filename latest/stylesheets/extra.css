@@ -1,6 +1,6 @@
 :root {
-  --md-primary-fg-color: #285F86;
-  --md-accent-fg-color: #e6007e;
+  --md-primary-fg-color: #00876C;
+  --md-accent-fg-color: #A3107C;
 }
 
 .md-content {
@@ -8,11 +8,11 @@
 }
 
 h1, h2, h3, h4 {
-  color:  #285F86 !important;
+  color:  #00876C !important;
 }
 
 .md-typeset__table thead {
-  background-color: #285F86;
+  background-color: #00876C;
   color: white;
 }
 
@@ -21,7 +21,7 @@ h1, h2, h3, h4 {
 }
 
 .md-copyright a {
-  color: #94c11f !important;
+  color: #77A200 !important;
 }
 
 .md-copyright {
