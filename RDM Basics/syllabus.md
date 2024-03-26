@@ -75,15 +75,15 @@ Keywords or tags used to describe the training.
 
 ## Agenda: Training Schedule - Training Structure
 
-| Date/Time | Topic             |
-|-----------|-------------------|
-| timeslot  | training unit 1   |
-| timeslot  | training unit 2   |
-| timeslot  | coffee break      |
-| timeslot  | training unit 3   |
-| timeslot  | lunch break       |
-| timelsot  | training unit 4   |
-| timeslot  | training unit 5   |
+| Date/Time | Topic           |
+| --------- | --------------- |
+| timeslot  | training unit 1 |
+| timeslot  | training unit 2 |
+| timeslot  | coffee break    |
+| timeslot  | training unit 3 |
+| timeslot  | lunch break     |
+| timelsot  | training unit 4 |
+| timeslot  | training unit 5 |
 
 ## Resources and Materials
 
@@ -101,7 +101,7 @@ Keywords or tags used to describe the training.
 # Trainer(s)
 
 - List of people involved in delivering the training
-- format: Name Surname [![ORCID logo](./attachments/orcid_16x16.webp)](https://orcid.org/0123-4561-8999-9999), Name Surname [![ORCID logo](./attachments/orcid_16x16.webp)](https://orcid.org/0123-4561-8999-9999), ...
+- format: Name Surname [![ORCID logo](attachments/orcid_16x16.webp)](https://orcid.org/0123-4561-8999-9999), Name Surname [![ORCID logo](attachments/orcid_16x16.webp)](https://orcid.org/0123-4561-8999-9999), ...
 
 ## Contact information
 
