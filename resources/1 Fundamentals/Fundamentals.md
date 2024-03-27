@@ -1,5 +1,5 @@
 ---
-title: 04.1 Policies
+title: Fundamentals
 author: Skills4EOSC T2.3
 tags:
   - FAIR-by-Design
