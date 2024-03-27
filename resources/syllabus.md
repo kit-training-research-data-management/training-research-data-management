@@ -1,5 +1,5 @@
 ---
-title: The is a new title.
+title: RDM Basics
 author:
   - Ich
 tags:
