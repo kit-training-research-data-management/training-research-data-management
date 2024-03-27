@@ -1,5 +1,5 @@
 ---
-title: "02 Awareness: Why is RDM important?"
+title: 01 Fundamentals
 author: Skills4EOSC T2.3
 tags:
   - FAIR-by-Design
