@@ -1,1 +1,1 @@
-syllabus.md
+[Syllabus](syllabus.md)
