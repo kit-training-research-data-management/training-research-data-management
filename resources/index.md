@@ -1,1 +1,1 @@
-syllabus
+syllabus.md
