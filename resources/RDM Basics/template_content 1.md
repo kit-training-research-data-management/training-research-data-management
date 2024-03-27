@@ -1,17 +1,10 @@
 ---
-title: 02.4 Data reuse/sharing
-author: Skills4EOSC T2.3
-tags:
-  - FAIR-by-Design
-  - Learning
-  - Materials
-  - FAIR
-  - Learning
-  - Objects
-  - FAIR
-  - Learning
-  - Unit
-  - Template
+title: "FAIR Learning Unit Learning Content Structure Template"
+author: "Skills4EOSC T2.3"
+tags: 
+    - FAIR-by-Design Learning Materials
+    - FAIR Learning Objects
+    - FAIR Learning Unit Template
 ---
 
 # Learning Unit Template

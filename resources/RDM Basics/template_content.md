@@ -1,5 +1,5 @@
 ---
-title: 02.4 Data reuse/sharing
+title: 03 Data lifecycle vs Research cycle (comparison - difference)
 author: Skills4EOSC T2.3
 tags:
   - FAIR-by-Design
