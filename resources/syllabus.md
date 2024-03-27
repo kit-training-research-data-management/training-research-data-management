@@ -7,6 +7,7 @@ tags:
   - Tags
   - Resource
   - Description
+  - RDM
 abstract: A brief synopsis about or description of the learning resource.
 primaryLanguage: two letter code, Language in which the resource was originally published or made available.
 license: A license document that applies to this content, typically indicated by URL
