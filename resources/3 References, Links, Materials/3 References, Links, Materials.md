@@ -1,36 +1,22 @@
 ---
-title: "FAIR Learning Unit Learning Content Structure Template"
-author: "Skills4EOSC T2.3"
-tags: 
-    - FAIR-by-Design Learning Materials
-    - FAIR Learning Objects
-    - FAIR Learning Unit Template
+title: 3 References, Links, Materials
+author: RDM@KIT
+tags:
+  - FAIR-by-Design
+  - Learning
+  - Materials
+  - FAIR
+  - Learning
+  - Objects
+  - FAIR
+  - Learning
+  - Unit
+  - Template
 ---
 
-# Learning Unit Template
+# 3 References, Links, Materials
 
 Introduction
-
-## Learning Objectives
-
-- min one learning objective using the verbs from the Blooms taxonomy
-
-## Target Audience
-
-- who is this learning unit meant for
-
-## Duration
-
-- time needed to learn the provided content
-
-## Prerequisites
-
-- list any knowledge that is required so that the learning unit can be followed
-
-## Learning Tools
-
-- list any tools that are necessary to be used to complete the learning unit
-- examples include required software, access to resources, etc.
 
 ## Learning Content Topic
 
